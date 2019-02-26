@@ -1,5 +1,7 @@
 # COMP590Spring2019-ArithmeticCoder
 
+The files from my scheme are located at src/app/VideoEncoder.java and src/app/VideoDecoder.java
+
 Arithmetic coder example from class
 
 The text file encoder produces a file with the following format:
